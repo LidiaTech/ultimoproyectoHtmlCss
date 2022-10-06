@@ -1,0 +1,97 @@
+
+
+nav{
+    background-color: #1F1815;
+    color: aliceblue;
+    display: flex;
+    justify-content: space-around;
+    align-content: center;
+    text-align: center;
+    align-items: center;
+    width: 1520px;
+    height: 64px;
+}
+a{
+    color: aliceblue;
+}
+.button-nav{
+    width: 130px;
+    height: 40px;
+    border-radius: 4px;
+    background-color: #515051;
+}
+section{
+    display: flex;
+    margin: 1cm;
+    align-items: center;
+}
+.tree{
+    border-radius: 8px;
+}
+.button-right{
+    color: #fff;
+    width: 137px;
+    height: 40px;
+    border-radius: 4px;
+    background-color: #2A5B45;
+}
+.button-left{
+    color: #fff;
+    width: 137px;
+    height: 40px;
+    border-radius: 4px;
+    background-color: #1F1815;
+}
+a:link { text-decoration: none; }
+.nav-title{
+    margin: -2.5cm
+}
+.new{
+    display: flex;
+    margin: 1cm;
+    align-items: center;
+    justify-content: center; 
+}
+.sacos {
+    display: grid;
+    grid-template-columns: 100px 100px 100px 100px;
+    justify-content: center;
+    grid-gap: 20%;
+    background-color: #fff;
+    color: #444;
+  }
+.costa{
+    color: white;
+    background-color: #2A5B45;
+    width: 60px;
+    height: 32px;
+    border-radius: 4px;
+    padding: 8px;
+  }
+.colombia{
+    color: white;
+    background-color: #2A5B45;
+    width: 60px;
+    height: 32px;
+    border-radius: 4px;
+    padding: 8px;
+  }
+.laos{
+    color: white;
+    background-color: #2A5B45;
+    width: 60px;
+    height: 32px;
+    border-radius: 4px;
+    padding: 8px;
+  }
+.etiopia{
+    color: white;
+    background-color: #2A5B45;
+    width: 60px;
+    height: 32px;
+    border-radius: 4px;
+    padding: 8px;
+  }
+input[type=button]{
+    border: none;
+}
